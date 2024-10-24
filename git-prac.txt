@@ -5,3 +5,7 @@ I am a student.
 I love every human in this world even they're not good people.
 
 I am looking for love and respect.
+
+Today is Thursday.
+I am practicing Git by watching Youtube Videos.
+Currently, I am sitting on the chair.
