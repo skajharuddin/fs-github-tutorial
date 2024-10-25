@@ -5,7 +5,7 @@
 
 <h2>Relational Database Management Systems (RDBMS)</h2>
 
- MySQL
+A. MySQL
 
 1. Open-source: Free and community-driven
 2. Popular: Widely used in web applications (e.g., WordPress, Facebook)
@@ -13,7 +13,7 @@
 4. Scalable: Supports large databases and high traffic
 5. Supported by Oracle
 
-2. PostgreSQL
+B. PostgreSQL
 
 1. Open-source: Free and community-driven
 2. Powerful: Advanced features (e.g., window functions, common table expressions)
@@ -21,7 +21,7 @@
 4. Compliant with SQL standards
 5. Supports JSON, XML and spatial data
 
-3. MariaDB
+C. MariaDB
 
 1. Open-source: Forked from MySQL (2009)
 2. Improved performance: Faster query execution and better indexing
@@ -29,7 +29,7 @@
 4. Compatibility: Drop-in replacement for MySQL
 5. Supported by MariaDB Foundation
 
-4. SQLite
+D. SQLite
 
 1. Open-source: Self-contained, file-based database
 2. Lightweight: Low memory footprint and fast execution
