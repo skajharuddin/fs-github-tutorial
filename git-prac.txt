@@ -19,4 +19,4 @@ DOB - 08/01/2005
 Password - 
 
 Today is Sunday.
-I started my day at 07:30 a.m.
+I started my day at 07:30 am.
