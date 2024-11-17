@@ -9,3 +9,16 @@
 
 2. Procedure to using .gitignore file
 3. Readme.md
+
+
+
+## 17-11-2024
+
+- add , commit , push on github
+- pull
+- how to create issues
+- branch and merging
+- resolve merge conflict
+- collaboration
+- contribution
+
