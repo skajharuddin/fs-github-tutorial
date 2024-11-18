@@ -10,6 +10,8 @@ Today is Thursday.
 I am practicing Git by watching Youtube Videos.
 Currently, I am sitting on the chair.
 
+Today is Monday.
+
 My Address: 
 Purba Bardhaman, West Bengal, India
 
