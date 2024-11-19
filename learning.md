@@ -12,7 +12,7 @@
 
 
 
-## 17-11-2024
+## 17-11-2024 
 - add , commit , push on github
 - pull
 - how to create issues
